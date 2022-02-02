@@ -63,9 +63,11 @@ Your manager has given you the following information to work with:
 
 ### Steps to Success <a name="sts"></a>
 <b>Step 1: Business and Data Understanding</b>
+
 Your project should include a description of the key business decisions that need to be made.
 
 <b>Step 2: Building the Training Set</b>
+
 To properly build the model, and select predictor variables, create a dataset with the following columns:
 
     City
